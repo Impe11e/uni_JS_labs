@@ -1,3 +1,6 @@
 [submodule "lab1_js"]
 	path = lab1_js
 	url = https://github.com/Impe11e/lab1_Variables-and-data-types.git
+[submodule "lab2_js"]
+	path = lab2_js
+	url = https://github.com/Impe11e/lab2_Basic-syntax-JavaScript.git
